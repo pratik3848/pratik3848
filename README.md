@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![github-header-image](https://github.com/pratik3848/pratik3848/assets/41427089/6a0694ac-1ace-41eb-9c7c-c12a5c75f097)
 
 <!--
 **pratik3848/pratik3848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
