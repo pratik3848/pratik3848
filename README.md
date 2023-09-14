@@ -7,6 +7,7 @@
 ## Recent Projects
 
 ### [Healthcare Prescriber Insights on GCP and AWS](https://github.com/pratik3848/Healthcare-Prescriber-Insights-on-GCP-and-AWS)
+### [Predicting House Rental Prices in the United States](https://github.com/pratik3848/US-House-Rent-Prediction)
 ### [Formula 1 Azure Data Pipeline](https://github.com/pratik3848/Formula1-Azure-Data-pipeline)
 ### [Covid19 Azure Data Factory Pipeline](https://github.com/pratik3848/Covid19-Prediction-and-Reporting)
 ### [Big Data Stocks Insights on Google Cloud](https://github.com/pratik3848/Big-Data-Stock-Insights)
