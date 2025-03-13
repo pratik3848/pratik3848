@@ -5,6 +5,7 @@
 ### Spark | Python | SQL | Airflow | Data Warehousing | ETL | Data Analysis | Google Cloud
 
 ## Certifications
+### Google Cloud Certified Professional Data Engineer
 ### Google Cloud Certified Associate Cloud Engineer
 ### Big Data Developer - Trendy Tech LLP
 ### SQL Advanced Certification - HackerRank
