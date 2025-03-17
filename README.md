@@ -2,7 +2,7 @@
 ![github-header-image](https://github.com/pratik3848/pratik3848/assets/41427089/6a0694ac-1ace-41eb-9c7c-c12a5c75f097)
 
 ## Skills and Experience
-### Spark | Python | SQL | Airflow | Data Warehousing | ETL | Data Analysis | Google Cloud
+### Spark | Python |RAG Development | SQL | Airflow | Data Warehousing | ETL | Google Cloud
 
 ## Certifications
 ### Google Cloud Certified Professional Data Engineer
