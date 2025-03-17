@@ -5,8 +5,7 @@
 💡 **Expertise in:** Data Engineering, RAG Development, SQL Optimization, ETL Pipelines  
 ⚙️ **Tech Stack:** Python, Spark, Airflow, BigQuery, ChromaDB, FastAPI, LangChain  
 ☁️ **Cloud & Certifications:** Google Cloud Certified Professional Data Engineer  
-📊 **Passionate about:** Building scalable data solutions, AI-driven insights, and automation  
- 
+📊 **Passionate about:** Building scalable data solutions, AI-driven insights, and automation   
 
 ## Top Projects
 ### [Chat-RAG: Intelligent Document-Based Chatbot with Memory](https://github.com/pratik3848/ChatRAG-Intelligent-Document-Based-Chatbot-with-Memory)
@@ -21,8 +20,8 @@
 ### [Predicting House Rental Prices in the United States](https://github.com/pratik3848/US-House-Rent-Prediction)
 ### [Uber and Lyft Price Prediction and EDA](https://github.com/pratik3848/Uber-and-Lyft-Price-Prediction-and-EDA)
 
-## Certifications
-### Google Cloud Certified Professional Data Engineer
-### Google Cloud Certified Associate Cloud Engineer
-### Big Data Developer - Trendy Tech LLP
-### SQL Advanced Certification - HackerRank
+### 🎓 Certifications  
+- 🏅 **Google Cloud Certified Professional Data Engineer**  
+- ☁️ **Google Cloud Certified Associate Cloud Engineer**  
+- 📊 **Big Data Developer** – Trendy Tech LLP  
+- 🛠️ **SQL Advanced Certification** – HackerRank  
